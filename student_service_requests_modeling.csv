@@ -1,0 +1,288 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score,Submission_Weekday,Queue_Category,SLA_Breached
+SR0001,Academic Records,Student,2026-04-06,Email,Normal,Registrar,25.0,Yes,8.0,3.0,Completed,No,4.0,Monday,High,1.0
+SR0002,Enrollment,Student,2026-09-28,Walk-in,Normal,Student Affairs,20.0,No,8.0,3.0,Completed,No,4.0,Monday,High,1.0
+SR0003,Scholarship Inquiry,Student,2026-06-07,Email,High,Scholarship Office,8.0,No,7.0,5.0,Completed,No,4.0,Sunday,Medium,1.0
+SR0004,IT Support,Student,2026-03-16,Email,Low,IT Services,25.0,Yes,6.0,2.0,Completed,No,1.0,Monday,High,1.0
+SR0007,Academic Records,Student,2026-10-04,Walk-in,Normal,Registrar,11.0,Yes,2.0,3.0,Completed,No,5.0,Sunday,Medium,0.0
+SR0008,Enrollment,Student,2026-05-02,Portal,High,Student Affairs,3.0,No,5.0,3.0,Completed,No,5.0,Saturday,Low,1.0
+SR0009,Certification,Faculty,2026-07-15,Walk-in,Normal,Registrar,24.0,Yes,6.0,4.0,Completed,No,2.0,Wednesday,High,1.0
+SR0010,Academic Records,Student,2026-03-12,Walk-in,High,Registrar,0.0,No,2.0,3.0,Completed,No,2.0,Thursday,Low,0.0
+SR0011,Scholarship Inquiry,Student,2026-08-06,Walk-in,High,Scholarship Office,4.0,Yes,4.0,5.0,Completed,No,2.0,Thursday,Low,0.0
+SR0012,Financial Assistance,Student,2026-08-06,Email,High,Finance Office,5.0,Yes,4.0,5.0,Completed,No,,Thursday,Low,0.0
+SR0013,Enrollment,Student,2026-06-20,Portal,Normal,Student Affairs,,Yes,5.0,3.0,Completed,No,3.0,Saturday,,1.0
+SR0014,Enrollment,Student,2026-08-05,Walk-in,Normal,Student Affairs,3.0,No,6.0,3.0,Completed,No,5.0,Wednesday,Low,1.0
+SR0015,Enrollment,Staff,2026-06-12,Portal,Low,Student Affairs,0.0,Yes,2.0,3.0,Completed,No,3.0,Friday,Low,0.0
+SR0016,Enrollment,Student,2026-04-16,Email,Normal,Student Affairs,17.0,Yes,4.0,3.0,Completed,No,5.0,Thursday,High,1.0
+SR0018,Academic Records,Student,2026-08-22,Walk-in,Normal,Registrar,3.0,Yes,2.0,3.0,Completed,No,2.0,Saturday,Low,0.0
+SR0019,Financial Assistance,Student,2026-08-24,Walk-in,Normal,Finance Office,7.0,Yes,2.0,5.0,Completed,No,,Monday,Medium,0.0
+SR0021,Scholarship Inquiry,Student,,Walk-in,Normal,Scholarship Office,24.0,Yes,5.0,5.0,Completed,No,5.0,,High,0.0
+SR0022,IT Support,Student,2026-01-02,Portal,Low,IT Services,18.0,Yes,2.0,2.0,Completed,No,,Friday,High,0.0
+SR0024,Financial Assistance,Student,2026-06-09,Walk-in,Normal,Finance Office,15.0,Yes,6.0,5.0,Completed,No,1.0,Tuesday,Medium,1.0
+SR0025,Enrollment,Student,2026-04-12,Email,Low,Student Affairs,10.0,Yes,1.0,3.0,Completed,No,4.0,Sunday,Medium,0.0
+SR0026,Scholarship Inquiry,Staff,2026-10-06,Walk-in,Low,Scholarship Office,5.0,No,6.0,5.0,Completed,No,2.0,Tuesday,Low,1.0
+SR0027,IT Support,Student,2026-09-05,Email,High,IT Services,22.0,Yes,5.0,2.0,Completed,No,3.0,Saturday,High,1.0
+SR0028,Enrollment,Student,2026-01-11,Portal,High,Student Affairs,20.0,No,8.0,3.0,Completed,No,2.0,Sunday,High,1.0
+SR0029,Scholarship Inquiry,Student,2026-02-28,Portal,High,Scholarship Office,0.0,Yes,5.0,5.0,Completed,No,3.0,Saturday,Low,0.0
+SR0030,IT Support,Student,2026-02-28,Email,Low,IT Services,18.0,No,6.0,2.0,Completed,No,3.0,Saturday,High,1.0
+SR0031,IT Support,Student,2026-09-09,Walk-in,Normal,IT Services,2.0,No,2.0,2.0,Completed,No,3.0,Wednesday,Low,0.0
+SR0032,Certification,Student,2026-05-26,Email,Low,Registrar,19.0,Yes,3.0,4.0,Completed,No,5.0,Tuesday,High,0.0
+SR0033,Academic Records,Student,2026-07-24,Walk-in,High,Registrar,21.0,Yes,5.0,3.0,Completed,No,4.0,Friday,High,1.0
+SR0034,Scholarship Inquiry,Student,2026-08-15,Email,High,Scholarship Office,3.0,No,6.0,5.0,Completed,No,3.0,Saturday,Low,1.0
+SR0036,Academic Records,Student,2026-01-25,Portal,Low,Registrar,3.0,Yes,4.0,3.0,Completed,No,4.0,Sunday,Low,1.0
+SR0037,Financial Assistance,Student,2026-02-09,Email,Low,Finance Office,14.0,Yes,5.0,5.0,Completed,No,2.0,Monday,Medium,0.0
+SR0038,Enrollment,Staff,2026-04-21,Walk-in,High,Student Affairs,24.0,Yes,3.0,3.0,Completed,No,2.0,Tuesday,High,0.0
+SR0039,Certification,Student,2026-04-05,Walk-in,High,Registrar,2.0,Yes,2.0,4.0,Completed,No,3.0,Sunday,Low,0.0
+SR0040,Scholarship Inquiry,Student,2026-07-29,Portal,High,Scholarship Office,10.0,Yes,5.0,5.0,Completed,No,1.0,Wednesday,Medium,0.0
+SR0041,Academic Records,Student,2026-02-13,Email,Low,Registrar,25.0,No,7.0,3.0,Completed,No,,Friday,High,1.0
+SR0042,Enrollment,Student,2026-04-15,Walk-in,Low,Student Affairs,7.0,Yes,2.0,3.0,Completed,No,2.0,Wednesday,Medium,0.0
+SR0045,Academic Records,Student,2026-02-18,Email,High,Registrar,13.0,Yes,3.0,3.0,Completed,No,1.0,Wednesday,Medium,0.0
+SR0046,Financial Assistance,Faculty,2026-02-24,Portal,Normal,Finance Office,17.0,Yes,6.0,5.0,Completed,No,4.0,Tuesday,High,1.0
+SR0047,IT Support,Student,2026-06-08,Portal,Low,IT Services,8.0,No,4.0,2.0,Completed,No,4.0,Monday,Medium,1.0
+SR0048,Financial Assistance,Student,2026-04-25,Email,High,Finance Office,24.0,Yes,6.0,5.0,Completed,No,3.0,Saturday,High,1.0
+SR0049,Enrollment,Faculty,2026-05-02,Portal,Low,Student Affairs,13.0,Yes,4.0,3.0,Completed,No,3.0,Saturday,Medium,1.0
+SR0053,IT Support,Student,2026-05-28,Email,High,IT Services,12.0,Yes,1.0,2.0,Completed,No,3.0,Thursday,Medium,0.0
+SR0055,IT Support,Student,2026-07-26,Walk-in,Normal,IT Services,15.0,Yes,1.0,2.0,Completed,No,3.0,Sunday,Medium,0.0
+SR0056,Academic Records,Staff,2026-07-13,Walk-in,Low,Registrar,14.0,Yes,4.0,3.0,Completed,No,2.0,Monday,Medium,1.0
+SR0057,Scholarship Inquiry,Staff,2026-02-07,Walk-in,High,Scholarship Office,3.0,No,6.0,5.0,Completed,No,1.0,Saturday,Low,1.0
+SR0059,Enrollment,Student,2026-02-16,Email,Low,Student Affairs,21.0,No,8.0,3.0,Completed,No,1.0,Monday,High,1.0
+SR0061,Financial Assistance,Staff,2026-07-02,Email,Low,Finance Office,18.0,Yes,6.0,5.0,Completed,No,5.0,Thursday,High,1.0
+SR0063,IT Support,Student,2026-03-10,Walk-in,Low,IT Services,19.0,No,4.0,2.0,Completed,No,,Tuesday,High,1.0
+SR0064,Financial Assistance,Faculty,2026-09-16,Portal,Normal,Finance Office,10.0,Yes,4.0,5.0,Completed,No,1.0,Wednesday,Medium,0.0
+SR0066,Certification,Student,2026-03-10,Email,Normal,Registrar,25.0,Yes,4.0,4.0,Completed,No,2.0,Tuesday,High,0.0
+SR0067,Financial Assistance,Staff,2026-10-06,Walk-in,High,Finance Office,4.0,Yes,3.0,5.0,Completed,No,4.0,Tuesday,Low,0.0
+SR0068,IT Support,Staff,2026-07-24,Email,High,IT Services,15.0,No,7.0,2.0,Completed,No,4.0,Friday,Medium,1.0
+SR0069,Academic Records,Faculty,2026-01-25,Email,Normal,Registrar,4.0,Yes,5.0,3.0,Completed,No,,Sunday,Low,1.0
+SR0070,IT Support,Student,2026-07-31,Portal,High,IT Services,24.0,Yes,4.0,2.0,Completed,No,3.0,Friday,High,1.0
+SR0071,Enrollment,Student,2026-09-29,Walk-in,Normal,Student Affairs,19.0,Yes,7.0,3.0,Completed,No,2.0,Tuesday,High,1.0
+SR0072,Certification,Student,2026-01-28,Portal,Low,Registrar,20.0,Yes,5.0,4.0,Completed,No,,Wednesday,High,1.0
+SR0074,Academic Records,Student,2026-05-12,Email,Low,Registrar,12.0,Yes,3.0,3.0,Completed,No,5.0,Tuesday,Medium,0.0
+SR0075,Enrollment,Student,2026-02-06,Email,High,Student Affairs,16.0,Yes,4.0,3.0,Completed,No,3.0,Friday,High,1.0
+SR0076,IT Support,Student,2026-02-26,Portal,Normal,IT Services,20.0,Yes,4.0,2.0,Completed,No,3.0,Thursday,High,1.0
+SR0077,Certification,Student,2026-02-18,Email,Normal,Registrar,22.0,Yes,10.0,4.0,Completed,No,3.0,Wednesday,High,1.0
+SR0078,Certification,Student,2026-02-21,Email,Normal,Registrar,0.0,Yes,4.0,4.0,Completed,No,5.0,Saturday,Low,0.0
+SR0082,IT Support,Student,2026-03-23,Portal,Low,IT Services,21.0,Yes,3.0,2.0,Completed,No,3.0,Monday,High,1.0
+SR0083,Academic Records,Faculty,2026-02-23,Portal,Normal,Registrar,6.0,Yes,4.0,3.0,Completed,No,2.0,Monday,Medium,1.0
+SR0084,Enrollment,Student,2026-08-11,Email,Normal,Student Affairs,20.0,Yes,4.0,3.0,Completed,No,4.0,Tuesday,High,1.0
+SR0085,Scholarship Inquiry,Student,2026-03-01,Portal,High,Scholarship Office,12.0,Yes,5.0,5.0,Completed,No,5.0,Sunday,Medium,0.0
+SR0086,Enrollment,Student,2026-09-12,Email,Normal,Student Affairs,6.0,Yes,3.0,3.0,Completed,No,,Saturday,Medium,0.0
+SR0087,Academic Records,Student,2026-05-31,Portal,High,Registrar,8.0,Yes,3.0,3.0,Completed,No,5.0,Sunday,Medium,0.0
+SR0088,Certification,Student,2026-08-13,Email,Normal,Registrar,13.0,Yes,5.0,4.0,Completed,No,2.0,Thursday,Medium,1.0
+SR0089,Enrollment,Student,2026-06-28,Walk-in,Normal,Student Affairs,19.0,Yes,1.0,3.0,Completed,No,2.0,Sunday,High,0.0
+SR0090,Enrollment,Student,2026-03-16,Email,Normal,Student Affairs,15.0,Yes,5.0,3.0,Completed,No,,Monday,Medium,1.0
+SR0091,IT Support,Student,2026-06-18,Walk-in,Normal,IT Services,24.0,Yes,3.0,2.0,Completed,No,3.0,Thursday,High,1.0
+SR0092,Enrollment,Student,2026-03-18,Walk-in,High,Student Affairs,22.0,Yes,2.0,3.0,Completed,Yes,1.0,Wednesday,High,0.0
+SR0094,IT Support,Student,2026-03-13,Email,Normal,IT Services,15.0,Yes,3.0,2.0,Completed,No,4.0,Friday,Medium,1.0
+SR0095,Financial Assistance,Student,2026-03-19,Portal,Low,Finance Office,7.0,No,5.0,5.0,Completed,No,1.0,Thursday,Medium,0.0
+SR0096,Certification,Student,2026-02-07,Email,High,Registrar,10.0,Yes,5.0,4.0,Completed,No,5.0,Saturday,Medium,1.0
+SR0098,Enrollment,Student,2026-09-22,Walk-in,Normal,Student Affairs,9.0,Yes,2.0,3.0,Completed,No,4.0,Tuesday,Medium,0.0
+SR0101,Enrollment,Student,2026-09-18,Portal,Low,Student Affairs,2.0,Yes,3.0,3.0,Completed,No,3.0,Friday,Low,0.0
+SR0102,Certification,Student,2026-03-04,Walk-in,Normal,Registrar,16.0,No,5.0,4.0,Completed,No,4.0,Wednesday,High,1.0
+SR0103,Enrollment,Student,2026-04-23,Walk-in,High,Student Affairs,25.0,No,8.0,3.0,Completed,No,2.0,Thursday,High,1.0
+SR0105,Enrollment,Student,2026-06-26,Email,Low,Student Affairs,7.0,Yes,1.0,3.0,Completed,No,,Friday,Medium,0.0
+SR0107,Enrollment,Faculty,2026-03-13,Walk-in,High,Student Affairs,13.0,Yes,3.0,3.0,Completed,No,4.0,Friday,Medium,0.0
+SR0108,Scholarship Inquiry,Student,2026-01-10,Email,Normal,Scholarship Office,6.0,No,6.0,5.0,Completed,No,2.0,Saturday,Medium,1.0
+SR0109,IT Support,Student,2026-01-24,Walk-in,High,IT Services,6.0,Yes,2.0,2.0,Completed,No,2.0,Saturday,Medium,0.0
+SR0110,Enrollment,Student,2026-02-15,Walk-in,High,Student Affairs,6.0,Yes,3.0,3.0,Completed,No,4.0,Sunday,Medium,0.0
+SR0111,Certification,Student,2026-08-09,Email,Normal,Registrar,25.0,Yes,6.0,4.0,Completed,No,5.0,Sunday,High,1.0
+SR0112,Enrollment,Student,2026-06-28,Walk-in,High,Student Affairs,19.0,No,8.0,3.0,Completed,No,3.0,Sunday,High,1.0
+SR0115,Scholarship Inquiry,Student,2026-02-15,Portal,Normal,Scholarship Office,24.0,Yes,4.0,5.0,Completed,No,1.0,Sunday,High,0.0
+SR0116,Scholarship Inquiry,Student,2026-03-01,Portal,Normal,Scholarship Office,2.0,Yes,4.0,5.0,Completed,No,,Sunday,Low,0.0
+SR0117,Academic Records,Student,2026-04-20,Email,Low,Registrar,22.0,Yes,6.0,3.0,Completed,No,2.0,Monday,High,1.0
+SR0119,Certification,Student,2026-06-21,Portal,Low,Registrar,12.0,Yes,1.0,4.0,Completed,No,1.0,Sunday,Medium,0.0
+SR0121,IT Support,Student,2026-03-11,Walk-in,High,IT Services,9.0,No,3.0,2.0,Completed,No,,Wednesday,Medium,1.0
+SR0122,Enrollment,Student,2026-08-26,Walk-in,High,Student Affairs,3.0,Yes,1.0,3.0,Completed,No,3.0,Wednesday,Low,0.0
+SR0123,Scholarship Inquiry,Student,2026-01-21,Portal,Normal,Scholarship Office,4.0,Yes,3.0,5.0,Completed,No,4.0,Wednesday,Low,0.0
+SR0124,IT Support,Student,2026-03-05,Email,Normal,IT Services,21.0,Yes,4.0,2.0,Completed,No,2.0,Thursday,High,1.0
+SR0126,Scholarship Inquiry,Student,2026-01-15,Walk-in,Normal,Scholarship Office,8.0,Yes,6.0,5.0,Completed,No,5.0,Thursday,Medium,1.0
+SR0127,Academic Records,Student,2026-08-29,Walk-in,Low,Registrar,24.0,No,6.0,3.0,Completed,No,1.0,Saturday,High,1.0
+SR0131,Scholarship Inquiry,Student,2026-01-28,Walk-in,High,Scholarship Office,15.0,Yes,6.0,5.0,Completed,No,4.0,Wednesday,Medium,1.0
+SR0132,Scholarship Inquiry,Student,2026-06-23,Email,High,Scholarship Office,4.0,Yes,4.0,5.0,Completed,No,,Tuesday,Low,0.0
+SR0134,Scholarship Inquiry,Student,2026-08-01,Walk-in,High,Scholarship Office,7.0,Yes,6.0,5.0,Completed,No,5.0,Saturday,Medium,1.0
+SR0135,Enrollment,Student,2026-06-18,Email,Normal,Student Affairs,15.0,Yes,3.0,3.0,Completed,No,4.0,Thursday,Medium,0.0
+SR0137,Scholarship Inquiry,Student,2026-02-04,Email,Low,Scholarship Office,11.0,Yes,4.0,5.0,Completed,No,1.0,Wednesday,Medium,0.0
+SR0138,Academic Records,Student,2026-08-07,Walk-in,Normal,Registrar,3.0,Yes,1.0,3.0,Completed,No,,Friday,Low,0.0
+SR0140,IT Support,Staff,2026-09-20,Portal,Low,IT Services,0.0,No,2.0,2.0,Completed,No,,Sunday,Low,0.0
+SR0141,Financial Assistance,Student,2026-01-30,Portal,High,Finance Office,18.0,No,6.0,5.0,Completed,No,4.0,Friday,High,1.0
+SR0142,Certification,Staff,2026-07-23,Email,Low,Registrar,1.0,Yes,3.0,4.0,Completed,No,3.0,Thursday,Low,0.0
+SR0143,Certification,Student,2026-10-01,Walk-in,Normal,Registrar,5.0,No,6.0,4.0,Completed,No,1.0,Thursday,Low,1.0
+SR0144,IT Support,Staff,2026-05-04,Portal,Low,IT Services,4.0,No,3.0,2.0,Completed,Yes,4.0,Monday,Low,1.0
+SR0147,Academic Records,Student,2026-02-22,Walk-in,High,Registrar,11.0,Yes,5.0,3.0,Completed,No,5.0,Sunday,Medium,1.0
+SR0148,Certification,Staff,2026-05-28,Email,High,Registrar,15.0,Yes,5.0,4.0,Completed,No,2.0,Thursday,Medium,1.0
+SR0150,Academic Records,Staff,2026-07-28,Email,Normal,Registrar,17.0,Yes,1.0,3.0,Completed,No,2.0,Tuesday,High,0.0
+SR0151,Financial Assistance,Student,2026-01-13,Portal,High,Finance Office,20.0,Yes,5.0,5.0,Completed,No,2.0,Tuesday,High,0.0
+SR0152,Certification,Student,2026-08-18,Portal,Low,Registrar,10.0,Yes,2.0,4.0,Completed,No,1.0,Tuesday,Medium,0.0
+SR0153,Financial Assistance,Faculty,2026-02-15,Walk-in,High,Finance Office,21.0,Yes,6.0,5.0,Completed,No,2.0,Sunday,High,1.0
+SR0154,Certification,Student,2026-07-29,Email,Low,Registrar,8.0,No,5.0,4.0,Completed,No,4.0,Wednesday,Medium,1.0
+SR0155,IT Support,Student,2026-06-23,Walk-in,Low,IT Services,25.0,Yes,4.0,2.0,Completed,No,2.0,Tuesday,High,1.0
+SR0156,Scholarship Inquiry,Student,2026-03-22,Walk-in,Normal,Scholarship Office,13.0,Yes,8.0,5.0,Completed,No,5.0,Sunday,Medium,1.0
+SR0157,Academic Records,Student,2026-04-29,Portal,Low,Registrar,19.0,Yes,4.0,3.0,Completed,No,5.0,Wednesday,High,1.0
+SR0158,Scholarship Inquiry,Student,2026-02-02,Portal,High,Scholarship Office,22.0,Yes,7.0,5.0,Completed,No,5.0,Monday,High,1.0
+SR0159,Scholarship Inquiry,Student,2026-10-04,Walk-in,High,Scholarship Office,20.0,Yes,5.0,5.0,Completed,Yes,4.0,Sunday,High,0.0
+SR0160,Enrollment,Student,2026-03-08,Portal,Normal,Student Affairs,22.0,Yes,5.0,3.0,Completed,No,2.0,Sunday,High,1.0
+SR0161,Financial Assistance,Student,2026-03-28,Email,High,Finance Office,13.0,Yes,5.0,5.0,Completed,No,,Saturday,Medium,0.0
+SR0162,Scholarship Inquiry,Faculty,2026-05-21,Walk-in,High,Scholarship Office,1.0,Yes,4.0,5.0,Completed,No,2.0,Thursday,Low,0.0
+SR0163,IT Support,Student,2026-07-08,Walk-in,High,IT Services,12.0,No,6.0,2.0,Completed,No,3.0,Wednesday,Medium,1.0
+SR0164,IT Support,Student,2026-05-22,Walk-in,High,IT Services,4.0,Yes,4.0,2.0,Completed,No,3.0,Friday,Low,1.0
+SR0165,IT Support,Student,2026-05-22,Portal,Normal,IT Services,23.0,Yes,5.0,2.0,Completed,No,5.0,Friday,High,1.0
+SR0167,Certification,Student,2026-08-29,Portal,High,Registrar,5.0,Yes,1.0,4.0,Completed,No,5.0,Saturday,Low,0.0
+SR0170,Academic Records,Student,2026-08-09,Walk-in,High,Registrar,14.0,Yes,5.0,3.0,Completed,No,,Sunday,Medium,1.0
+SR0171,Academic Records,Student,2026-09-27,Portal,Low,Registrar,24.0,Yes,5.0,3.0,Completed,No,2.0,Sunday,High,1.0
+SR0173,Enrollment,Student,2026-08-12,Email,Low,Student Affairs,7.0,Yes,4.0,3.0,Completed,No,2.0,Wednesday,Medium,1.0
+SR0174,Enrollment,Student,2026-03-11,Email,Low,Student Affairs,1.0,Yes,4.0,3.0,Completed,No,,Wednesday,Low,1.0
+SR0175,Enrollment,Faculty,2026-08-05,Portal,High,Student Affairs,0.0,No,4.0,3.0,Completed,No,3.0,Wednesday,Low,1.0
+SR0176,IT Support,Student,2026-07-26,Portal,High,IT Services,9.0,Yes,2.0,2.0,Completed,No,,Sunday,Medium,0.0
+SR0177,Enrollment,Faculty,2026-03-23,Email,High,Student Affairs,24.0,No,7.0,3.0,Completed,No,1.0,Monday,High,1.0
+SR0180,Scholarship Inquiry,Staff,2026-05-27,Portal,Normal,Scholarship Office,2.0,Yes,1.0,5.0,Completed,No,1.0,Wednesday,Low,0.0
+SR0181,Financial Assistance,Student,2026-08-12,Portal,High,Finance Office,2.0,Yes,1.0,5.0,Completed,No,2.0,Wednesday,Low,0.0
+SR0182,Academic Records,Student,2026-02-22,Walk-in,Normal,Registrar,21.0,Yes,5.0,3.0,Completed,No,1.0,Sunday,High,1.0
+SR0184,Enrollment,Student,2026-08-11,Portal,Low,Student Affairs,1.0,Yes,1.0,3.0,Completed,No,3.0,Tuesday,Low,0.0
+SR0187,Academic Records,Student,2026-01-03,Walk-in,High,Registrar,17.0,Yes,3.0,3.0,Completed,No,1.0,Saturday,High,0.0
+SR0188,IT Support,Student,2026-07-22,Walk-in,Normal,IT Services,2.0,Yes,5.0,2.0,Completed,No,2.0,Wednesday,Low,1.0
+SR0190,Certification,Student,2026-09-15,Walk-in,Low,Registrar,21.0,Yes,6.0,4.0,Completed,No,,Tuesday,High,1.0
+SR0191,Enrollment,Student,2026-02-13,Portal,Normal,Student Affairs,20.0,No,9.0,3.0,Completed,No,2.0,Friday,High,1.0
+SR0193,Scholarship Inquiry,Faculty,2026-04-20,Portal,High,Scholarship Office,6.0,Yes,2.0,5.0,Completed,No,1.0,Monday,Medium,0.0
+SR0194,IT Support,Student,2026-04-09,Email,High,IT Services,25.0,Yes,4.0,2.0,Completed,No,,Thursday,High,1.0
+SR0195,Financial Assistance,Faculty,2026-04-10,Portal,Normal,Finance Office,8.0,Yes,4.0,5.0,Completed,No,5.0,Friday,Medium,0.0
+SR0196,Academic Records,Student,2026-06-28,Email,High,Registrar,20.0,Yes,2.0,3.0,Completed,No,5.0,Sunday,High,0.0
+SR0198,Academic Records,Student,2026-05-13,Email,Low,Registrar,20.0,Yes,3.0,3.0,Completed,No,4.0,Wednesday,High,0.0
+SR0199,IT Support,Student,2026-01-20,Portal,High,IT Services,16.0,No,7.0,2.0,Completed,No,1.0,Tuesday,High,1.0
+SR0200,Financial Assistance,Faculty,2026-10-04,Portal,Low,Finance Office,16.0,Yes,5.0,5.0,Completed,No,5.0,Sunday,High,0.0
+SR0202,Financial Assistance,Student,2026-01-27,Email,High,Finance Office,20.0,Yes,5.0,5.0,Completed,No,2.0,Tuesday,High,0.0
+SR0204,Enrollment,Student,2026-04-26,Email,High,Student Affairs,3.0,Yes,3.0,3.0,Completed,No,4.0,Sunday,Low,0.0
+SR0209,Certification,Student,2026-05-25,Email,High,Registrar,25.0,Yes,3.0,4.0,Completed,Yes,2.0,Monday,High,0.0
+SR0211,Certification,Student,2026-06-18,Walk-in,High,Registrar,21.0,Yes,6.0,4.0,Completed,No,5.0,Thursday,High,1.0
+SR0212,Enrollment,Student,2026-04-18,Portal,Normal,Student Affairs,12.0,Yes,1.0,3.0,Completed,No,2.0,Saturday,Medium,0.0
+SR0215,Enrollment,Student,2026-05-15,Portal,Low,Student Affairs,17.0,Yes,5.0,3.0,Completed,No,4.0,Friday,High,1.0
+SR0216,Certification,Student,2026-09-05,Portal,Low,Registrar,16.0,Yes,5.0,4.0,Completed,No,4.0,Saturday,High,1.0
+SR0217,Academic Records,Student,2026-08-07,Walk-in,High,Registrar,6.0,Yes,1.0,3.0,Completed,Yes,1.0,Friday,Medium,0.0
+SR0218,Academic Records,Student,2026-03-26,Email,Low,Registrar,6.0,Yes,3.0,3.0,Completed,No,3.0,Thursday,Medium,0.0
+SR0219,IT Support,Student,2026-03-11,Portal,Low,IT Services,1.0,Yes,1.0,2.0,Completed,No,3.0,Wednesday,Low,0.0
+SR0220,Financial Assistance,Student,2026-08-04,Portal,High,Finance Office,3.0,Yes,3.0,5.0,Completed,No,4.0,Tuesday,Low,0.0
+SR0221,Academic Records,Student,2026-02-28,Portal,Normal,Registrar,11.0,Yes,5.0,3.0,Completed,No,1.0,Saturday,Medium,1.0
+SR0222,IT Support,Student,2026-04-05,Portal,Low,IT Services,12.0,Yes,5.0,2.0,Completed,No,1.0,Sunday,Medium,1.0
+SR0224,Certification,Student,2026-06-19,Walk-in,Low,Registrar,10.0,Yes,6.0,4.0,Completed,No,5.0,Friday,Medium,1.0
+SR0226,Certification,Student,2026-07-04,Email,Normal,Registrar,6.0,Yes,4.0,4.0,Completed,No,2.0,Saturday,Medium,0.0
+SR0227,Enrollment,Student,2026-09-19,Email,High,Student Affairs,8.0,No,6.0,3.0,Completed,No,,Saturday,Medium,1.0
+SR0228,Scholarship Inquiry,Student,2026-08-21,Walk-in,Low,Scholarship Office,9.0,Yes,5.0,5.0,Completed,No,2.0,Friday,Medium,0.0
+SR0229,Scholarship Inquiry,Student,2026-09-23,Walk-in,Normal,Scholarship Office,13.0,Yes,5.0,5.0,Completed,No,4.0,Wednesday,Medium,0.0
+SR0231,IT Support,Staff,2026-05-08,Walk-in,Normal,IT Services,19.0,No,5.0,2.0,Completed,No,,Friday,High,1.0
+SR0232,Financial Assistance,Student,2026-03-03,Portal,Normal,Finance Office,8.0,No,5.0,5.0,Completed,No,2.0,Tuesday,Medium,0.0
+SR0235,IT Support,Student,2026-03-31,Walk-in,High,IT Services,4.0,Yes,2.0,2.0,Completed,No,5.0,Tuesday,Low,0.0
+SR0236,Enrollment,Student,2026-06-07,Portal,Normal,Student Affairs,17.0,Yes,5.0,3.0,Completed,No,3.0,Sunday,High,1.0
+SR0237,Scholarship Inquiry,Student,2026-06-19,Portal,Low,Scholarship Office,6.0,Yes,5.0,5.0,Completed,No,1.0,Friday,Medium,0.0
+SR0238,IT Support,Staff,2026-05-19,Portal,High,IT Services,7.0,Yes,2.0,2.0,Completed,No,2.0,Tuesday,Medium,0.0
+SR0239,Certification,Staff,2026-05-13,Email,Normal,Registrar,20.0,Yes,6.0,4.0,Completed,No,5.0,Wednesday,High,1.0
+SR0240,Scholarship Inquiry,Student,2026-01-16,Walk-in,Low,Scholarship Office,24.0,No,9.0,5.0,Completed,No,2.0,Friday,High,1.0
+SR0242,Scholarship Inquiry,Student,2026-04-08,Portal,High,Scholarship Office,23.0,No,10.0,5.0,Completed,Yes,4.0,Wednesday,High,1.0
+SR0243,Academic Records,Student,2026-08-18,Portal,Low,Registrar,22.0,Yes,4.0,3.0,Completed,No,2.0,Tuesday,High,1.0
+SR0244,Scholarship Inquiry,Student,2026-08-31,Portal,High,Scholarship Office,12.0,Yes,2.0,5.0,Completed,No,1.0,Monday,Medium,0.0
+SR0246,Academic Records,Student,2026-01-09,Email,High,Registrar,8.0,No,3.0,3.0,Completed,No,5.0,Friday,Medium,0.0
+SR0249,Enrollment,Student,2026-04-27,Walk-in,Normal,Student Affairs,24.0,Yes,4.0,3.0,Completed,No,1.0,Monday,High,1.0
+SR0250,Academic Records,Student,2026-09-22,Email,Normal,Registrar,22.0,Yes,6.0,3.0,Completed,No,3.0,Tuesday,High,1.0
+SR0251,Certification,Staff,2026-08-31,Portal,Normal,Registrar,12.0,Yes,5.0,4.0,Completed,No,2.0,Monday,Medium,1.0
+SR0252,IT Support,Student,2026-01-15,Email,Normal,IT Services,16.0,No,6.0,2.0,Completed,No,,Thursday,High,1.0
+SR0254,Certification,Student,2026-07-29,Walk-in,High,Registrar,20.0,Yes,6.0,4.0,Completed,No,1.0,Wednesday,High,1.0
+SR0256,Academic Records,Student,2026-03-14,Portal,Low,Registrar,13.0,Yes,3.0,3.0,Completed,No,1.0,Saturday,Medium,0.0
+SR0257,Enrollment,Student,2026-05-27,Walk-in,Low,Student Affairs,19.0,No,3.0,3.0,Completed,No,2.0,Wednesday,High,0.0
+SR0258,Academic Records,Student,2026-08-31,Email,High,Registrar,16.0,Yes,4.0,3.0,Completed,No,5.0,Monday,High,1.0
+SR0259,Certification,Student,2026-03-04,Portal,High,Registrar,1.0,Yes,3.0,4.0,Completed,No,4.0,Wednesday,Low,0.0
+SR0260,Scholarship Inquiry,Staff,2026-07-28,Walk-in,Normal,Scholarship Office,7.0,Yes,6.0,5.0,Completed,No,5.0,Tuesday,Medium,1.0
+SR0261,Enrollment,Student,2026-07-25,Portal,Low,Student Affairs,4.0,Yes,4.0,3.0,Completed,No,4.0,Saturday,Low,1.0
+SR0262,Certification,Staff,2026-09-05,Walk-in,High,Registrar,19.0,No,7.0,4.0,Completed,No,,Saturday,High,1.0
+SR0264,Financial Assistance,Student,2026-03-02,Email,Normal,Finance Office,5.0,Yes,5.0,5.0,Completed,Yes,1.0,Monday,Low,0.0
+SR0266,Scholarship Inquiry,Student,2026-05-29,Email,Low,Scholarship Office,18.0,Yes,5.0,5.0,Completed,No,5.0,Friday,High,0.0
+SR0267,IT Support,Student,2026-04-25,Email,High,IT Services,13.0,No,6.0,2.0,Completed,Yes,1.0,Saturday,Medium,1.0
+SR0268,IT Support,Faculty,2026-08-07,Portal,Normal,IT Services,22.0,No,5.0,2.0,Completed,No,3.0,Friday,High,1.0
+SR0269,Scholarship Inquiry,Student,2026-08-12,Portal,Low,Scholarship Office,23.0,Yes,7.0,5.0,Completed,No,1.0,Wednesday,High,1.0
+SR0270,Scholarship Inquiry,Student,2026-03-10,Portal,Normal,Scholarship Office,3.0,Yes,5.0,5.0,Completed,No,2.0,Tuesday,Low,0.0
+SR0271,Certification,Staff,2026-08-11,Walk-in,Low,Registrar,24.0,Yes,4.0,4.0,Completed,No,4.0,Tuesday,High,0.0
+SR0273,Academic Records,Student,2026-04-25,Email,Normal,Registrar,16.0,No,7.0,3.0,Completed,No,3.0,Saturday,High,1.0
+SR0274,Financial Assistance,Student,2026-01-08,Walk-in,Normal,Finance Office,2.0,Yes,4.0,5.0,Completed,Yes,,Thursday,Low,0.0
+SR0275,IT Support,Student,2026-04-06,Walk-in,High,IT Services,16.0,Yes,2.0,2.0,Completed,No,1.0,Monday,High,0.0
+SR0276,IT Support,Student,2026-09-26,Portal,Low,IT Services,18.0,Yes,2.0,2.0,Completed,No,1.0,Saturday,High,0.0
+SR0277,IT Support,Student,2026-05-04,Portal,Low,IT Services,15.0,No,4.0,2.0,Completed,No,2.0,Monday,Medium,1.0
+SR0278,Enrollment,Student,2026-07-18,Walk-in,Normal,Student Affairs,2.0,Yes,3.0,3.0,Completed,No,5.0,Saturday,Low,0.0
+SR0279,Academic Records,Student,2026-01-31,Portal,High,Registrar,13.0,Yes,2.0,3.0,Completed,No,3.0,Saturday,Medium,0.0
+SR0280,Academic Records,Student,2026-06-27,Portal,Normal,Registrar,24.0,Yes,5.0,3.0,Completed,No,4.0,Saturday,High,1.0
+SR0282,IT Support,Student,2026-07-28,Walk-in,High,IT Services,3.0,Yes,1.0,2.0,Completed,No,5.0,Tuesday,Low,0.0
+SR0284,IT Support,Student,2026-05-29,Walk-in,Low,IT Services,24.0,Yes,8.0,2.0,Completed,No,5.0,Friday,High,1.0
+SR0285,IT Support,Student,2026-01-29,Portal,Normal,IT Services,4.0,Yes,1.0,2.0,Completed,No,1.0,Thursday,Low,0.0
+SR0287,Academic Records,Student,2026-02-04,Portal,High,Registrar,10.0,Yes,3.0,3.0,Completed,No,2.0,Wednesday,Medium,0.0
+SR0289,Scholarship Inquiry,Faculty,2026-01-18,Walk-in,Normal,Scholarship Office,11.0,Yes,5.0,5.0,Completed,No,3.0,Sunday,Medium,0.0
+SR0290,IT Support,Student,2026-06-29,Portal,Normal,IT Services,20.0,Yes,4.0,2.0,Completed,No,1.0,Monday,High,1.0
+SR0292,Certification,Student,2026-02-26,Walk-in,Normal,Registrar,20.0,No,9.0,4.0,Completed,No,4.0,Thursday,High,1.0
+SR0293,Financial Assistance,Student,2026-01-05,Walk-in,Low,Finance Office,24.0,Yes,5.0,5.0,Completed,No,2.0,Monday,High,0.0
+SR0294,Certification,Student,2026-09-06,Portal,Normal,Registrar,24.0,Yes,7.0,4.0,Completed,No,3.0,Sunday,High,1.0
+SR0295,Scholarship Inquiry,Student,2026-08-23,Email,High,Scholarship Office,2.0,No,5.0,5.0,Completed,No,5.0,Sunday,Low,0.0
+SR0297,Financial Assistance,Student,2026-01-17,Walk-in,Low,Finance Office,18.0,Yes,4.0,5.0,Completed,No,3.0,Saturday,High,0.0
+SR0298,IT Support,Staff,2026-04-08,Email,Low,IT Services,15.0,Yes,4.0,2.0,Completed,No,2.0,Wednesday,Medium,1.0
+SR0300,Academic Records,Student,2026-06-12,Walk-in,High,Registrar,2.0,Yes,2.0,3.0,Completed,No,2.0,Friday,Low,0.0
+SR0302,Enrollment,Staff,2026-02-09,Email,Low,Student Affairs,16.0,Yes,2.0,3.0,Completed,Yes,1.0,Monday,High,0.0
+SR0303,Academic Records,Student,2026-03-15,Portal,Low,Registrar,4.0,Yes,2.0,3.0,Completed,No,,Sunday,Low,0.0
+SR0305,Scholarship Inquiry,Student,2026-02-17,Walk-in,Low,Scholarship Office,3.0,Yes,2.0,5.0,Completed,No,5.0,Tuesday,Low,0.0
+SR0306,Academic Records,Student,2026-09-10,Walk-in,Normal,Registrar,14.0,Yes,4.0,3.0,Completed,No,,Thursday,Medium,1.0
+SR0307,Certification,Student,2026-07-09,Email,High,Registrar,0.0,No,7.0,4.0,Completed,No,3.0,Thursday,Low,1.0
+SR0310,Academic Records,Staff,2026-04-04,Walk-in,Normal,Registrar,12.0,Yes,6.0,3.0,Completed,No,,Saturday,Medium,1.0
+SR0311,Scholarship Inquiry,Student,2026-08-20,Walk-in,Normal,Scholarship Office,17.0,No,8.0,5.0,Completed,No,1.0,Thursday,High,1.0
+SR0313,Academic Records,Student,2026-03-23,Portal,Low,Registrar,18.0,No,7.0,3.0,Completed,Yes,,Monday,High,1.0
+SR0314,Certification,Student,2026-03-01,Email,High,Registrar,19.0,No,7.0,4.0,Completed,No,1.0,Sunday,High,1.0
+SR0315,Certification,Student,2026-02-07,Portal,Low,Registrar,23.0,No,8.0,4.0,Completed,No,1.0,Saturday,High,1.0
+SR0316,Scholarship Inquiry,Student,2026-01-26,Walk-in,Normal,Scholarship Office,20.0,Yes,5.0,5.0,Completed,Yes,5.0,Monday,High,0.0
+SR0319,Financial Assistance,Student,2026-04-17,Walk-in,Low,Finance Office,6.0,Yes,5.0,5.0,Completed,Yes,1.0,Friday,Medium,0.0
+SR0320,Enrollment,Student,2026-01-20,Walk-in,Normal,Student Affairs,15.0,No,5.0,3.0,Completed,No,5.0,Tuesday,Medium,1.0
+SR0321,Certification,Student,2026-01-18,Walk-in,Normal,Registrar,3.0,Yes,2.0,4.0,Completed,No,2.0,Sunday,Low,0.0
+SR0322,Academic Records,Student,2026-10-05,Portal,Low,Registrar,24.0,Yes,5.0,3.0,Completed,No,1.0,Monday,High,1.0
+SR0323,Scholarship Inquiry,Student,2026-01-25,Walk-in,High,Scholarship Office,21.0,Yes,7.0,5.0,Completed,No,1.0,Sunday,High,1.0
+SR0324,Financial Assistance,Student,2026-01-21,Email,Low,Finance Office,3.0,No,6.0,5.0,Completed,No,2.0,Wednesday,Low,1.0
+SR0325,Financial Assistance,Student,2026-01-09,Portal,Normal,Finance Office,20.0,Yes,5.0,5.0,Completed,No,4.0,Friday,High,0.0
+SR0326,Certification,Student,2026-02-07,Email,Normal,Registrar,3.0,Yes,5.0,4.0,Completed,No,1.0,Saturday,Low,1.0
+SR0327,Certification,Staff,2026-05-28,Email,Low,Registrar,18.0,Yes,7.0,4.0,Completed,No,5.0,Thursday,High,1.0
+SR0328,Academic Records,Staff,2026-08-20,Email,High,Registrar,2.0,Yes,3.0,3.0,Completed,No,4.0,Thursday,Low,0.0
+SR0329,Academic Records,Student,2026-07-25,Portal,Normal,Registrar,12.0,Yes,5.0,3.0,Completed,No,2.0,Saturday,Medium,1.0
+SR0330,Scholarship Inquiry,Student,2026-06-12,Email,Low,Scholarship Office,17.0,Yes,7.0,5.0,Completed,No,,Friday,High,1.0
+SR0334,Enrollment,Faculty,2026-06-26,Portal,High,Student Affairs,20.0,Yes,5.0,3.0,Completed,Yes,5.0,Friday,High,1.0
+SR0336,Enrollment,Student,2026-09-05,Portal,High,Student Affairs,17.0,Yes,5.0,3.0,Completed,No,,Saturday,High,1.0
+SR0337,Financial Assistance,Student,2026-03-28,Walk-in,Normal,Finance Office,18.0,Yes,3.0,5.0,Completed,No,3.0,Saturday,High,0.0
+SR0338,Certification,Student,2026-06-28,Email,Normal,Registrar,8.0,Yes,2.0,4.0,Completed,No,5.0,Sunday,Medium,0.0
+SR0339,Certification,Student,2026-05-04,Portal,Low,Registrar,19.0,Yes,7.0,4.0,Completed,No,3.0,Monday,High,1.0
+SR0340,Financial Assistance,Staff,2026-05-27,Portal,Normal,Finance Office,23.0,Yes,7.0,5.0,Completed,No,1.0,Wednesday,High,1.0
+SR0341,Scholarship Inquiry,Student,2026-09-20,Walk-in,Low,Scholarship Office,21.0,Yes,8.0,5.0,Completed,No,1.0,Sunday,High,1.0
+SR0343,Scholarship Inquiry,Student,2026-04-27,Portal,High,Scholarship Office,16.0,No,5.0,5.0,Completed,No,5.0,Monday,High,0.0
+SR0344,Scholarship Inquiry,Student,2026-05-06,Email,High,Scholarship Office,7.0,Yes,4.0,5.0,Completed,No,3.0,Wednesday,Medium,0.0
+SR0345,Financial Assistance,Student,2026-07-17,Email,High,Finance Office,20.0,Yes,6.0,5.0,Completed,No,5.0,Friday,High,1.0
+SR0346,Certification,Student,2026-04-07,Portal,Low,Registrar,9.0,Yes,4.0,4.0,Completed,No,1.0,Tuesday,Medium,0.0
+SR0347,Financial Assistance,Student,2026-02-17,Email,Low,Finance Office,13.0,Yes,7.0,5.0,Completed,No,1.0,Tuesday,Medium,1.0
+SR0348,Financial Assistance,Student,2026-05-11,Walk-in,High,Finance Office,8.0,Yes,4.0,5.0,Completed,No,4.0,Monday,Medium,0.0
+SR0349,Certification,Student,2026-01-20,Walk-in,Normal,Registrar,8.0,No,6.0,4.0,Completed,No,4.0,Tuesday,Medium,1.0
+SR0352,Academic Records,Student,2026-08-12,Portal,High,Registrar,3.0,Yes,2.0,3.0,Completed,Yes,2.0,Wednesday,Low,0.0
+SR0353,Certification,Student,2026-08-07,Email,Normal,Registrar,2.0,Yes,2.0,4.0,Completed,No,5.0,Friday,Low,0.0
+SR0356,Financial Assistance,Student,2026-02-12,Portal,Low,Finance Office,11.0,Yes,4.0,5.0,Completed,No,2.0,Thursday,Medium,0.0
+SR0360,Enrollment,Student,2026-08-24,Walk-in,Normal,Student Affairs,18.0,Yes,1.0,3.0,Completed,No,1.0,Monday,High,0.0
+SR0361,Financial Assistance,Faculty,2026-07-12,Portal,High,Finance Office,4.0,Yes,2.0,5.0,Completed,No,,Sunday,Low,0.0
+SR0362,Financial Assistance,Student,2026-04-03,Walk-in,Normal,Finance Office,14.0,Yes,5.0,5.0,Completed,No,5.0,Friday,Medium,0.0
+SR0363,Certification,Student,2026-09-24,Portal,Low,Registrar,24.0,Yes,4.0,4.0,Completed,No,1.0,Thursday,High,0.0
+SR0364,Financial Assistance,Student,2026-07-12,Portal,Low,Finance Office,24.0,Yes,8.0,5.0,Completed,No,,Sunday,High,1.0
+SR0365,Academic Records,Student,2026-06-30,Email,Low,Registrar,9.0,No,5.0,3.0,Completed,No,1.0,Tuesday,Medium,1.0
+SR0366,Scholarship Inquiry,Student,2026-08-28,Walk-in,Normal,Scholarship Office,20.0,Yes,8.0,5.0,Completed,No,1.0,Friday,High,1.0
+SR0367,IT Support,Student,2026-09-04,Portal,Low,IT Services,15.0,Yes,3.0,2.0,Completed,No,4.0,Friday,Medium,1.0
+SR0369,Academic Records,Student,2026-09-04,Walk-in,High,Registrar,3.0,Yes,2.0,3.0,Completed,No,2.0,Friday,Low,0.0
+SR0370,Enrollment,Student,2026-08-03,Email,High,Student Affairs,9.0,Yes,3.0,3.0,Completed,No,2.0,Monday,Medium,0.0
+SR0376,Academic Records,Staff,2026-07-12,Portal,Low,Registrar,24.0,No,8.0,3.0,Completed,No,5.0,Sunday,High,1.0
+SR0377,Enrollment,Faculty,2026-07-02,Portal,High,Student Affairs,11.0,Yes,4.0,3.0,Completed,No,2.0,Thursday,Medium,1.0
+SR0378,Enrollment,Student,2026-09-12,Email,Low,Student Affairs,3.0,Yes,2.0,3.0,Completed,No,4.0,Saturday,Low,0.0
+SR0379,IT Support,Student,2026-02-01,Portal,High,IT Services,7.0,Yes,4.0,2.0,Completed,Yes,5.0,Sunday,Medium,1.0
+SR0381,Academic Records,Student,2026-10-03,Walk-in,Normal,Registrar,22.0,Yes,5.0,3.0,Completed,Yes,2.0,Saturday,High,1.0
+SR0382,Financial Assistance,Student,2026-06-09,Portal,Low,Finance Office,16.0,No,9.0,5.0,Completed,No,4.0,Tuesday,High,1.0
+SR0383,Financial Assistance,Student,2026-03-11,Email,Normal,Finance Office,3.0,Yes,4.0,5.0,Completed,No,4.0,Wednesday,Low,0.0
+SR0384,Certification,Staff,2026-03-23,Portal,Normal,Registrar,3.0,Yes,2.0,4.0,Completed,No,1.0,Monday,Low,0.0
+SR0385,Academic Records,Student,2026-04-05,Email,High,Registrar,12.0,No,6.0,3.0,Completed,No,4.0,Sunday,Medium,1.0
+SR0386,Academic Records,Student,2026-06-05,Portal,High,Registrar,15.0,Yes,4.0,3.0,Completed,No,1.0,Friday,Medium,1.0
+SR0388,Enrollment,Student,2026-06-24,Email,High,Student Affairs,17.0,Yes,6.0,3.0,Completed,No,,Wednesday,High,1.0
+SR0390,Academic Records,Student,2026-06-20,Email,Normal,Registrar,0.0,Yes,1.0,3.0,Completed,No,5.0,Saturday,Low,0.0
+SR0391,Enrollment,Student,2026-02-13,Portal,High,Student Affairs,2.0,Yes,1.0,3.0,Completed,No,2.0,Friday,Low,0.0
+SR0392,Certification,Student,2026-06-24,Walk-in,High,Registrar,11.0,Yes,3.0,4.0,Completed,No,,Wednesday,Medium,0.0
+SR0394,Scholarship Inquiry,Student,2026-02-07,Walk-in,Normal,Scholarship Office,21.0,Yes,4.0,5.0,Completed,No,,Saturday,High,0.0
+SR0396,Financial Assistance,Staff,2026-07-14,Walk-in,High,Finance Office,7.0,Yes,3.0,5.0,Completed,No,4.0,Tuesday,Medium,0.0
+SR0397,Academic Records,Faculty,2026-06-22,Email,Normal,Registrar,25.0,Yes,9.0,3.0,Completed,No,4.0,Monday,High,1.0
+SR0399,Certification,Student,2026-06-06,Portal,Low,Registrar,8.0,Yes,3.0,4.0,Completed,No,,Saturday,Medium,0.0
+SR0400,Certification,Student,2026-07-11,Portal,Low,Registrar,11.0,Yes,3.0,4.0,Completed,No,3.0,Saturday,Medium,0.0
